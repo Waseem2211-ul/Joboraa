@@ -2,6 +2,8 @@
 
 > **Your Career. Intelligently Matched.**
 
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/Waseem2211-ul/Joboraa)
+
 JOBORA is an AI-powered career intelligence platform designed for college students, fresh graduates, entry-level job seekers, and career switchers. It transforms resumes into structured career diagnostics, skill gap roadmaps, targeted resume rewrites, matched job requisitions, and AI interview simulations.
 
 ---
