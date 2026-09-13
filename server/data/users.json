@@ -1,0 +1,74 @@
+[
+  {
+    "id": "usr_1789298793449_m0zyc",
+    "name": "Sarah Connor",
+    "email": "sarah@example.com",
+    "password": "$2a$10$pej4jyZNfZSFxdnmfdeIVOv9495ANhbfeB5pu2NC1mFIQ0ZpGB0Ue",
+    "createdAt": "2026-09-13T11:26:33.450Z",
+    "profile": {
+      "name": "Sarah Connor",
+      "targetRole": "Frontend Developer",
+      "careerInterests": [
+        "Frontend Development",
+        "Full Stack",
+        "AI Engineering"
+      ],
+      "resumeText": "",
+      "skills": [
+        "JavaScript",
+        "React",
+        "HTML",
+        "CSS",
+        "Git",
+        "Responsive Design"
+      ],
+      "resumeScore": 84,
+      "experience": [],
+      "education": [],
+      "projects": [],
+      "targetCareer": "Frontend Developer",
+      "interviewHistory": []
+    }
+  },
+  {
+    "id": "usr_1789299477650_yr65u",
+    "name": "Mohammed Waseem A",
+    "email": "alanjiwaseem@gmail.com",
+    "password": "$2a$10$S92dX8XVmFEGjQBGEky5keiTzHxox0GmZvobmQ57t1w.YknZ5Ee42",
+    "createdAt": "2026-09-13T11:37:57.651Z",
+    "profile": {
+      "name": "Mohammed Waseem A",
+      "targetRole": "Frontend Developer",
+      "careerInterests": [
+        "Frontend Development",
+        "Full Stack",
+        "AI Engineering"
+      ],
+      "resumeText": "",
+      "skills": [
+        "JavaScript",
+        "React",
+        "HTML",
+        "CSS",
+        "Git",
+        "Responsive Design"
+      ],
+      "resumeScore": 84,
+      "experience": [],
+      "education": [],
+      "projects": [],
+      "targetCareer": "Frontend Developer",
+      "interviewHistory": [
+        {
+          "date": "2026-09-13T11:38:19.527Z",
+          "role": "Frontend Developer",
+          "question": "Can you explain how the React Virtual DOM works, and what causes an unnecessary re-render in a React...",
+          "score": 55,
+          "verdict": "Good starting direction, but your response could benefit from greater technical depth and specific real-world examples."
+        }
+      ],
+      "lastInterviewScore": 55,
+      "updatedAt": "2026-09-13T11:38:19.529Z"
+    }
+  }
+]

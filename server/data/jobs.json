@@ -1,0 +1,86 @@
+[
+  {
+    "id": "job-1",
+    "title": "Frontend Engineer (React / Next.js)",
+    "company": "Pulse Technologies",
+    "location": "Remote / San Francisco, CA",
+    "type": "Full-time",
+    "salary": "$95,000 - $125,000",
+    "requiredSkills": ["React", "JavaScript", "TypeScript", "Tailwind CSS", "REST API", "Git"],
+    "preferredSkills": ["Next.js", "Redux", "Jest", "GraphQL"],
+    "experience": "1-3 years",
+    "description": "We are seeking a proactive Frontend Engineer to build modern, responsive, and performant web applications using React and TypeScript. You'll collaborate closely with product and design teams to deliver slick user experiences."
+  },
+  {
+    "id": "job-2",
+    "title": "Junior Full Stack Developer",
+    "company": "Nexus Media Labs",
+    "location": "Austin, TX (Hybrid)",
+    "type": "Full-time",
+    "salary": "$80,000 - $105,000",
+    "requiredSkills": ["JavaScript", "React", "Node.js", "Express", "SQL", "Git"],
+    "preferredSkills": ["Docker", "MongoDB", "AWS", "TypeScript"],
+    "experience": "0-2 years",
+    "description": "Join our fast-paced product engineering team building client-facing portals and scalable microservices. Excellent opportunity for entry-level developers or recent graduates eager to grow across both frontend and backend."
+  },
+  {
+    "id": "job-3",
+    "title": "AI Application Developer",
+    "company": "Cognitive AI Studio",
+    "location": "Remote",
+    "type": "Full-time",
+    "salary": "$110,000 - $140,000",
+    "requiredSkills": ["Python", "JavaScript", "React", "LLM APIs", "Prompt Engineering", "FastAPI"],
+    "preferredSkills": ["LangChain", "Vector Databases", "Node.js", "Docker"],
+    "experience": "1-3 years",
+    "description": "Help us build intelligent consumer and enterprise AI applications using modern foundation models, prompt pipelines, and reactive client interfaces."
+  },
+  {
+    "id": "job-4",
+    "title": "UI/UX & Frontend Designer",
+    "company": "Aura Interactive",
+    "location": "New York, NY (Remote Friendly)",
+    "type": "Full-time",
+    "salary": "$85,000 - $115,000",
+    "requiredSkills": ["Figma", "UI/UX Design", "HTML", "CSS", "React", "Design Systems"],
+    "preferredSkills": ["Framer Motion", "Tailwind CSS", "Prototyping"],
+    "experience": "1-3 years",
+    "description": "Bridge the gap between design and engineering. You will create high-fidelity design systems in Figma and translate them into beautiful, accessible React code."
+  },
+  {
+    "id": "job-5",
+    "title": "Backend Software Engineer",
+    "company": "Hyperion Cloud",
+    "location": "Seattle, WA (Hybrid)",
+    "type": "Full-time",
+    "salary": "$100,000 - $130,000",
+    "requiredSkills": ["Node.js", "Python", "REST API", "PostgreSQL", "Docker", "Git"],
+    "preferredSkills": ["Microservices", "Redis", "Kubernetes", "AWS"],
+    "experience": "2-4 years",
+    "description": "Develop resilient backend APIs, event-driven services, and data pipelines powering real-time analytics platforms."
+  },
+  {
+    "id": "job-6",
+    "title": "Associate DevOps & Cloud Engineer",
+    "company": "Vortex Infrastructure",
+    "location": "Remote",
+    "type": "Full-time",
+    "salary": "$90,000 - $120,000",
+    "requiredSkills": ["Linux", "Docker", "Git", "CI/CD", "Bash", "Cloud Fundamentals"],
+    "preferredSkills": ["Kubernetes", "Terraform", "AWS", "GitHub Actions"],
+    "experience": "1-2 years",
+    "description": "Help automate deployments, monitor cloud health, and scale containerized clusters across production environments."
+  },
+  {
+    "id": "job-7",
+    "title": "Junior Data Analyst / BI Developer",
+    "company": "MetricFlow Analytics",
+    "location": "Chicago, IL (Hybrid)",
+    "type": "Full-time",
+    "salary": "$75,000 - $95,000",
+    "requiredSkills": ["SQL", "Python", "Data Visualization", "Excel", "Data Cleaning"],
+    "preferredSkills": ["Power BI", "Tableau", "Pandas", "Statistical Analysis"],
+    "experience": "0-2 years",
+    "description": "Turn complex data into actionable dashboards and strategic business insights. Great opportunity for analytical problem solvers."
+  }
+]
